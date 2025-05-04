@@ -1,6 +1,6 @@
 <!-- GitHub Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasan+Makki;ALX+Frontend+Learner+%26+Aspiring+Full-Stack+Developer;Building+Scalable+Web+Solutions" alt="Animated header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasan+Makki;ALX+Frontend+Learner alt="Animated header" />
 </div>
 
 ---
